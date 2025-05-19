@@ -21,4 +21,4 @@ Polygun's codebases.
 Repositories can range anywhere from complex Kubernetes demonstrations,
 language templates, to shared libraries and development tools.
 
-Most projects are **MIT Licenses** (unless otherwise prohibited). 
+Most projects are **MIT Licensed** (unless otherwise prohibited). 
